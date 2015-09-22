@@ -9,7 +9,7 @@
 			</div>
 		</header>
 		<div id="main">
-			{{> postList }}
+			{{> postsList }}
 		</div>
 	</div>
 </body>
