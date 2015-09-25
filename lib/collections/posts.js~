@@ -19,7 +19,6 @@ Posts.deny({
   }
 });
 
-
 Meteor.methods({
 	postInsert: function(postAttributes) {
 		check(Meteor.userId(), String);
